@@ -1,0 +1,6 @@
+How to download file from this library:
+Windows:
+Curl -O https://FaizAdriansyah.github.io/FileLibrary/windows/<filename>.<extension>
+
+2.Download from original place:
+visit https://FaizAdriansyah.github.io/FileLibrary/<OS>/<filename>.<extension>
